@@ -1,4 +1,4 @@
 Hello World!!
 Nice 2 meet u!
-dev1
+dev1 login(로그인)
 dev2 regist member(회원가입)
